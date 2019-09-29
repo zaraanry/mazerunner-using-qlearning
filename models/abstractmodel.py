@@ -1,5 +1,3 @@
-""" Abstract base class for prediction models.
-"""
 from abc import ABC, abstractmethod
 
 
