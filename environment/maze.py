@@ -15,30 +15,6 @@ from utils.datasets import get_labels
 from utils.inference import draw_bounding_box
 from utils.preprocessor import preprocess_input
 
-
-import range
-import keras
-
-
-#from utils.inference import detect_faces
-#from utils.inference import draw_text
-#from utils.inference import apply_offsets
-#from utils.inference import load_detection_model
-
-
-#from utils.inference import draw_text
-#from utils.inference import draw_bounding_box
-
-
-
-
-
-
-import logging
-
-import matplotlib.pyplot as plt
-import numpy as np
-
 CELL_EMPTY = 0  # indicates empty cell where the agent can move to
 CELL_OCCUPIED = 1  # indicates cell which contains a wall and cannot be entered
 CELL_CURRENT = 2  # indicates current cell of the agent

@@ -15,30 +15,6 @@ from utils.datasets import get_labels
 from utils.inference import draw_bounding_box
 from utils.preprocessor import preprocess_input
 
-
-import range
-import keras
-
-
-#from utils.inference import detect_faces
-#from utils.inference import draw_text
-#from utils.inference import apply_offsets
-#from utils.inference import load_detection_model
-
-
-#from utils.inference import draw_text
-#from utils.inference import draw_bounding_box
-
-
-
-
-
-
-
-
-
-
-
 import matplotlib.pyplot as plt
 
 from environment import Maze
