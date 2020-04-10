@@ -185,6 +185,7 @@ game.play(model, start_cell=(0, 0))
 
 plt.show()  # must be placed here else the image disappears immediately at the end of the program
 
+
 from .abstractmodel import *
 from .qrandom import *
 from .qreplaynetwork import *

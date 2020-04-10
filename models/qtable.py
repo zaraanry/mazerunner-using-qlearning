@@ -185,6 +185,7 @@ game.play(model, start_cell=(0, 0))
 
 plt.show()  # must be placed here else the image disappears immediately at the end of the program
 
+
 import logging
 import random
 from datetime import datetime
