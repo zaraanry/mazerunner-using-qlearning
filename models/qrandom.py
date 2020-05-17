@@ -16,6 +16,10 @@ class RandomModel(AbstractModel):
         """ Return Q value for all action for a certain state.
 
             :return np.ndarray: Q values
+
+
+
+
         """
         return np.array([0, 0, 0, 0])
 
