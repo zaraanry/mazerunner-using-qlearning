@@ -1,4 +1,9 @@
-import random
+from .qrandom import *
+from .qreplaynetwork import *
+from .qtable import *
+from .qtable_trace import *
+from .sarsa import *
+from .sarsa_trace import *import random
 from datetime import datetime
 
 import numpy as np
