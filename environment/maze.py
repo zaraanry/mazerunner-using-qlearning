@@ -330,3 +330,4 @@ class Maze:
         self.__ax2.imshow(self.maze, cmap="binary")
         self.__ax2.get_figure().canvas.draw()
         # plt.pause(0.001)
+import numpy as np
