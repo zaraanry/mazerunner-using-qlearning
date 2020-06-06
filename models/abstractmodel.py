@@ -663,6 +663,7 @@ class Maze:
         self.__ax2.get_figure().canvas.draw()
         # plt.pause(0.001)
 from utils.inference import detect_faces
+from utils.inference import detect_faces
 from abc import ABC, abstractmethod
 
 class AbstractModel(ABC):
