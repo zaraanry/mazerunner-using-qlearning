@@ -1,4 +1,4 @@
-from .sarsa_trace import *from .sarsa_trace import *import numpy as np
+from .sarsa_trace import *from .sarsa_trace import *from .sarsa_trace import *import numpy as np
 
 from models import AbstractModel
 
