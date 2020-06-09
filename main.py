@@ -1,4 +1,4 @@
-from .sarsa_trace import *from .sarsa_trace import *from .sarsa_trace import *import numpy as np
+import numpy as np
 import dlib
 from imutils import face_utils
 from keras.models import load_model
