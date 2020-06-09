@@ -1,4 +1,4 @@
-import random
+from .sarsa_trace import *import random
 from datetime import datetime
 
 import numpy as np
