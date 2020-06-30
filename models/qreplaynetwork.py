@@ -1992,7 +1992,7 @@ class Maze:
         self.__ax2.imshow(self.maze, cmap="binary")
         self.__ax2.get_figure().canvas.draw()
         # plt.pause(0.001)
-
+v
 import numpy as np
 
 np.random.seed(1)
