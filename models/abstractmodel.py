@@ -1,6 +1,11 @@
 vfrom .qrandom import *
 from .qreplaynetwork import *
+from .qtable imporfrom .qrandom import *
+from .qreplaynetwork import *
 from .qtable import *
+from .qtable_trace import *
+from .sarsa import *
+from .sarsa_trace import *t *
 from .qtable_trace import *
 from .sarsa import *
 from .sarsa_trace import *from abc import ABC, abstractmethod
