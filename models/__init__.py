@@ -1,3 +1,4 @@
+import numpy as np
 from .qrandom import *
 from .qreplaynetwork import *
 from .qtable import *
