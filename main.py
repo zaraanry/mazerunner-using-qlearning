@@ -8,7 +8,6 @@ from utils.inference import detect_faces
 from utils.inference import draw_text
 from utils.inference import apply_offsets
 from utils.inference import load_detection_model
-import random
 
 from statistics import mode
 from utils.datasets import get_labels

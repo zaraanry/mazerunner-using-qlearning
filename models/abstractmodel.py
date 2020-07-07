@@ -1,4 +1,3 @@
-import random
 from abc import ABC, abstractmethod
 
 class AbstractModel(ABC):
