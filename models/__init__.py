@@ -1,3 +1,4 @@
+import random
 from .qrandom import *
 from .qreplaynetwork import *
 from .qtable import *
