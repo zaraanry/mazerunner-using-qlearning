@@ -728,7 +728,7 @@ game.play(model, start_cell=(0, 0))
 # game.play(model, start_cell=(2, 5))
 # game.play(model, start_cell=(4, 1))
 
-plt.show()  # must be placed here else the image disappears immediately at the end of the programs
+plt.show()  # must be placed here else the image disappears immediately at the end of the programsvs
 game.render("moves")
 game.play(model, start_cell=(0, 0))
 # game.play(model, start_cell=(2, 5))
